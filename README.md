@@ -20,7 +20,7 @@
 
 <h1 align="center"> 👋 </h1>
 <div align="center">
-  <img src="https://i.ibb.co/tYLjkmp/Screenshot-118.png" alt="header"/>
+  <img src="https://i.ibb.co/g45YRqP/Screenshot-134.png" alt="header"/>
 </div>
 <p align="center"> (Open for Hiring)</p>
 
