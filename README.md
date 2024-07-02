@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.ibb.co/g45YRqP/Screenshot-134.png" alt="header"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Shahriar Samir</h1>
 <h3 align="center">A Frontend Web Developer skilled in React Js, Tailwind CSS, Express JS, MongoDB. Always trying to enhance my developing skills and My Goal is become a Full Stack Web Developer</h3>
 
@@ -19,9 +23,7 @@
 --->  
 
 <h1 align="center"> 👋 </h1>
-<div align="center">
-  <img src="https://i.ibb.co/g45YRqP/Screenshot-134.png" alt="header"/>
-</div>
+
 <p align="center"> (Open for Hiring)</p>
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
