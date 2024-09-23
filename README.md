@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React JS, Tailwind CSS, and Express JS**
 - 🌱 I’m currently learning **Next Js and TypeScript**
-- 📫 How to reach me **shabusiness035@gmail.com**
+- 📫 How to reach me **shahriar.samir80@gmail.com**
 
 # Daily Steak
 <p  align='center'>
