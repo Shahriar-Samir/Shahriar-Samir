@@ -14,7 +14,7 @@
 
 # Daily Steak
 <p  align='center'>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shahriar%20Samir&theme=highcontrast)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shahriar%20Samir&theme=highcontrast" alt="GitHub Streak" /></a>
 </p>
 
 
