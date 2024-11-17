@@ -13,7 +13,7 @@
 - 📫 How to reach me **shahriar.samir80@gmail.com**
 
 # Daily Steak
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shahriar-Samir&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shahriar%20Samir&theme=prussian" alt="GitHub Streak" /></a>
 
 
 # Languages and Tools
