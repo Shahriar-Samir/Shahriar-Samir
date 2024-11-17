@@ -13,8 +13,9 @@
 - 📫 How to reach me **shahriar.samir80@gmail.com**
 
 # Daily Steak
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shahriar-Samir&theme=prussian" alt="GitHub Streak" /></a>
-
+<p align='center'>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shahriar-Samir&theme=prussian" alt="GitHub Streak" /></a>  
+</p>
 
 # Languages and Tools
 <h4 align='center'>React JS, Tailwind CSS, Express JS, Mongodb, Javascript, CSS, HTML</h4>
