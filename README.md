@@ -14,7 +14,7 @@
 
 # Daily Steak
 <p  align='center'>
-<img src="https://user-images.githubusercontent.com/107488620/183304038-2788ab5d-4c02-45e9-a724-990f27061c54.png" alt="Example Image" />
+<img src="https://user-images.githubusercontent.com/107488620/183304038-2788ab5d-4c02-45e9-a724-990f27061c54.png" alt="image" />
 </p>
 
 
