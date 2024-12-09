@@ -3,7 +3,7 @@
 </div>
 <p align='center'>
 Frontend Developer <br> 
-Web Development Intern - Team Lead <br> 
+Web Development Intern Team Lead <br> 
 Aspiring Full-Stack Developer</p> 
 
 
