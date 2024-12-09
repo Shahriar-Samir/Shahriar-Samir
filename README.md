@@ -1,28 +1,50 @@
 <div align="center">
   <img src="https://i.ibb.co/g45YRqP/Screenshot-134.png" alt="header"/>
 </div>
+<p align='center'>
+Frontend Developer <br> 
+Web Development Intern - Team Lead <br> 
+Aspiring Full-Stack Developer</p> 
 
-<br/>
 
 
 # About Me
-<h3 >A Frontend Web Developer skilled in React Js, Tailwind CSS, Express JS, MongoDB. Always trying to enhance my developing skills and My Goal is to become a Full Stack Web Developer</h3>
+A Frontend Web Developer currently working for a corporation as an intern. Expertise in React JS, Tailwind CSS, Express JS, and MongoDB. As an aspiring Full Stack Web Developer, I'm deep-diving into Express JS and MongoDB with Mongoose to enhance my backend skills. Besides this, I'm also exploring advanced TypeScript with Next.js. 
 
-- 💬 Ask me about **React JS, Tailwind CSS, and Express JS**
-- 🌱 I’m currently learning **Next Js and TypeScript**
+- 💬 Ask me about **React JS, JavaScript, and Express JS**
+- 🌱 I’m currently learning **TypeScript, Express JS, MongoDB with Mongoose and Next.js**
 - 📫 How to reach me **shahriar.samir80@gmail.com**
 
-# Daily Steak
+# Tech Stack
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
+
+
+# Stats
 <p align='center'>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Shahriar-Samir&theme=prussian" alt="GitHub Streak" /></a>  
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Shahriar-Samir&theme=transparent&hide_border=true&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&ring=E58307&fire=E58307&currStreakLabel=E58307&stroke=EB545400&currStreakNum=E58307&dates=E58307" alt="Nazmul's GitHub Streak" /></a>  
+  <a href="https://git.io/streak-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Shahriar-Samir&show_icons=true&theme=transparent" alt="GitHub Stats" style="flex: 1;"></a>   
+</p>
+<p align='center'>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Samir&show_icons=true&theme=transparent&layout=compact" alt="Top Languages" style="flex: 1;"></a>   
 </p>
 
-# Languages and Tools
-<h4 align='center'>React JS, Tailwind CSS, Express JS, Mongodb, Javascript, CSS, HTML</h4>
-<p align="center"> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://expressjs.com/"><img alt="express js" src="https://i.ibb.co/LvJc8M8/icons8-express-js-500.png" alt="icons8-express-js-500" border="0" width='40' height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p align='center'>
+
+  
+</p>
+
+
+
 
 
 
