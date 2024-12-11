@@ -29,9 +29,12 @@ A Frontend Web Developer currently working for a corporation as an intern. Exper
 
 
 # Stats
-<p align='center'>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Shahriar-Samir)](https://git.io/streak-stats)  
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=Shahriar-Samir" alt="GitHub Streak">
+  </a>
 </p>
+
 <p align='center'>
   <a href="https://git.io/streak-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Shahriar-Samir&show_icons=true&theme=transparent" alt="GitHub Stats" style="flex: 1;"></a> 
 </p>
