@@ -9,7 +9,7 @@ Aspiring Full-Stack Developer</p>
 
 
 # About Me
-A Frontend Web Developer currently working for a corporation as an intern. Expertise in React JS, Tailwind CSS, Express JS, and MongoDB. As an aspiring Full Stack Web Developer, I'm deep-diving into Express JS and MongoDB with Mongoose to enhance my backend skills. Besides this, I'm also exploring advanced TypeScript with Next.js. 
+A Frontend Web Developer Expert in React JS, Tailwind CSS, Express JS, and MongoDB. As an aspiring Full Stack Web Developer, I'm deep-diving into Express JS and MongoDB with Mongoose to enhance my backend skills. Besides this, I'm also exploring advanced TypeScript with Next.js. 
 
 - 💬 Ask me about **React JS, JavaScript, and Express JS**
 - 🌱 I’m currently learning **TypeScript, Express JS, MongoDB with Mongoose and Next.js**
