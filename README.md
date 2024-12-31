@@ -2,9 +2,8 @@
   <img src="https://i.ibb.co/g45YRqP/Screenshot-134.png" alt="header"/>
 </div>
 <p align='center'>
-Frontend Developer <br> 
-Web Development Intern Team Lead <br> 
-Aspiring Full-Stack Developer</p> 
+Fullstack Developer <br> 
+Aspiring Software Engineer</p> 
 
 
 
