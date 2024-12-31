@@ -30,7 +30,7 @@ A Frontend Web Developer Expert in React JS, Tailwind CSS, Express JS, and Mongo
 # Stats
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Shahriar-Samir" alt="GitHub Streak">
+    <img src="https://streak-stats.demolab.com/?user=Shahriar-Samir&theme=github_dark" alt="GitHub Streak">
   </a>
 </p>
 
