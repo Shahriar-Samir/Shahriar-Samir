@@ -38,7 +38,7 @@ A Frontend Web Developer Expert in React JS, Tailwind CSS, Express JS, and Mongo
   <a href="https://git.io/streak-stats"> <img src="https://github-readme-stats.vercel.app/api?username=Shahriar-Samir&show_icons=true&theme=github_dark" alt="GitHub Stats" style="flex: 1;"></a> 
 </p>
 <p align='center'>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Samir&show_icons=true&theme=transparent&layout=compact" alt="Top Languages" style="flex: 1;"></a>   
+<a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Samir&show_icons=true&theme=github_dark&layout=compact" alt="Top Languages" style="flex: 1;"></a>   
 </p>
 
 
