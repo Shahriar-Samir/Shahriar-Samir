@@ -40,3 +40,6 @@ A Frontend Web Developer Expert in React JS, Tailwind CSS, Express JS, and Mongo
 <p align='center'>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahriar-Samir&show_icons=true&theme=algolia&layout=compact" alt="Top Languages" style="flex: 1;"></a>   
 </p>
+  <td align="center">
+      <img width="400" src="https://leetcode-badge-sage.vercel.app/badge/anmamun0?theme=dark&bgColor=282828&border_radius=10" alt="anmamun0 :: Leetcode" />
+    </td>
